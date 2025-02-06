@@ -122,7 +122,7 @@ public class Persona {
      */
     @Override
     public String toString(){
-        return "NOME: " + this.nome + "COGNOME: " + this.cognome + "CF: " + this.codice;
+        return "NOME: " + this.nome + " COGNOME: " + this.cognome + " CF: " + this.codice;
     }
     
 
